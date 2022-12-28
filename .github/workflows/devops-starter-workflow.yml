@@ -12,7 +12,7 @@ env:
   LOCATION: "East Asia"
   HOSTINGPLANNAME: "VUE-GFGFFF-plan"
   APPINSIGHTLOCATION: "East Asia"
-  SONAR_HOST_URL:"http://20.2.80.116/"
+  SONAR_HOST_URL: "http://20.2.80.116/"
   SKU: "S1 Standard"
 
 jobs:
